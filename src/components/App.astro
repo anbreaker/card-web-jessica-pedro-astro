@@ -16,6 +16,8 @@ const contactLinks = {
   linkedin: 'https://www.linkedin.com/in/jessicadasilvapedro/',
   gmail: 'mailto:jejensp@gmail.com',
 };
+
+const profileImage = '/card-web-jessica-pedro-astro/images/profile2.webp';
 ---
 
 <BaseLayout
@@ -31,6 +33,6 @@ const contactLinks = {
     linkedinLink={contactLinks.linkedin}
     gmailLink={contactLinks.gmail}
     cvLink={cvLinkByCountry[currentLocale]}
-    profileImage='/images/profile2.webp'
+    profileImage={profileImage}
   />
 </BaseLayout>
