@@ -1,0 +1,16 @@
+{
+  "BaseLayout": {
+    "author": "Jéssica Pedro",
+    "description": "Página web pessoal de Jéssica Pedro",
+    "keywords": "Jéssica Pedro, Contabilista, Gestão, Licenciatura Gestão, Universidade Aberta, Lisboa, Portugal",
+    "title": "Jéssica Pedro"
+  },
+  "Card": {
+    "abotuMe": "Olá a todos!<br /><br />Sou a <strong class='animation'>Jéssica Pedro</strong>, e acabei de concluir Licenciatura, Gestão na <a class='animation' href='https://www.linkedin.com/school/universidade-aberta/' target='_blank' rel='noopener noreferrer'><strong><q>Universidade Aberta</q></strong></a> de Lisboa. Durante os meus estudos, adorei trabalhar em projetos práticos onde pude aplicar tudo o que aprendi, desde gerir demonstrações financeiras até realizar auditorias básicas. <br /><br />Agora estou super entusiasmada para começar a minha carreira profissional e pôr em prática todas as minhas competências.<br /><br />Adoro trabalhar em equipa e enfrentar novos desafios, e estou pronta para trazer a minha energia e paixão pelos números a qualquer projeto que se apresente. Estou entusiasmada por iniciar esta nova etapa!<br /><br />Contacte-me ou descarregue o meu CV: ",
+    "cv": "Currículo",
+    "gmail": "Gmail",
+    "linkedIn": "LinkedIn",
+    "position": "Licenciatura em Gestão",
+    "profileImage": "Imagem de perfil de Jéssica Neves da Silva Pedro"
+  }
+}

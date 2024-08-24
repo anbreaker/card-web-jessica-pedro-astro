@@ -1,0 +1,16 @@
+{
+  "BaseLayout": {
+    "author": "Jéssica Neves da Silva Pedro",
+    "description": "Página web personal de Jéssica Neves da Silva Pedro",
+    "keywords": "Jéssica Neves da Silva Pedro, Contable, Licenciada en Gestión, Universidad Abierta, Lisboa, Portugal",
+    "title": "Jéssica Neves da Silva Pedro"
+  },
+  "Card": {
+    "abotuMe": "¡Hola a todos!<br /><br />Soy <strong class='animation'>Jéssica Neves da Silva Pedro</strong>, y acabo de terminar la Licenciatura de Gestión en la <a class='animation' href='https://www.linkedin.com/school/universidade-aberta/'target='_blank' rel='noopener noreferrer'><strong><q>Universidade Aberta</q></strong></a> de Lisboa. Durante mis estudios, me encantó trabajar en proyectos prácticos donde pude aplicar todo lo que aprendí, desde manejar estados financieros hasta hacer auditorías básicas. <br /><br />Ahora estoy súper emocionada de comenzar mi carrera profesional y poner en práctica todas mis habilidades.<br /><br />Me encanta trabajar en equipo y enfrentar nuevos desafíos, y estoy lista para aportar mi energía y pasión por los números a cualquier proyecto que se me presente. ¡Con ilusión por empezar esta nueva etapa!<br /><br />Contacta conmigo o descarga mi CV: ",
+    "cv": "Currículo",
+    "gmail": "Gmail",
+    "linkedIn": "LinkedIn",
+    "position": "Licenciada en Gestión",
+    "profileImage": "Imagen de perfil de Jéssica Neves da Silva Pedro"
+  }
+}
