@@ -5,6 +5,7 @@ a {
   text-decoration: none;
   color: #ffffff;
 }
+
 .image {
   display: flex;
   justify-content: center;
@@ -12,8 +13,8 @@ a {
 }
 
 .image img {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   border-radius: 100%;
   text-align: center;
   object-fit: cover;
@@ -149,8 +150,8 @@ a:hover {
   }
 
   .image img {
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
   }
 
   .image {
@@ -193,8 +194,8 @@ a:hover {
   }
 
   .image img {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
   }
 
   .image {
