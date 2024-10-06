@@ -16,7 +16,7 @@ const logo = '/jessica-ns-pedro/images/jessica-pedro-logo.webp';
 ---
 
 <div class="container">
-  <div class="card-container">
+  <div class="card-container" transition:name="card-animation">
     <div class="descripcion">
       <h1 class="animation logo-title">
         <span>
@@ -46,7 +46,7 @@ const logo = '/jessica-ns-pedro/images/jessica-pedro-logo.webp';
     </div>
 
     <div class="image">
-      <img src={profileImage} alt={i18n.Card.profileImage} />
+      <img transition:name="image-animiation" src={profileImage} alt={i18n.Card.profileImage} />
     </div>
 
     <LanguageSelector />
